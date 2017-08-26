@@ -1,0 +1,347 @@
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\ReporteNomina1\ReporteNomina1\bin\Debug\ReporteNomina1.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\ReporteNomina1\ReporteNomina1\bin\Debug\ReporteNomina1.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\ReporteNomina1\ReporteNomina1\bin\Debug\ReporteNomina1.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina.Form1.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina.Resources.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina1.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina1.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\ReporteNomina1\ReporteNomina1\bin\Debug\ReporteNomina1.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\ReporteNomina1\ReporteNomina1\bin\Debug\ReporteNomina1.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\ReporteNomina1\ReporteNomina1\bin\Debug\System.Data.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\ReporteNomina1\ReporteNomina1\bin\Debug\System.Deployment.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\ReporteNomina1\ReporteNomina1\bin\Debug\System.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\ReporteNomina1\ReporteNomina1\bin\Debug\System.Drawing.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\ReporteNomina1\ReporteNomina1\bin\Debug\System.Windows.Forms.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\ReporteNomina1\ReporteNomina1\bin\Debug\System.Xml.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina1.TrustInfo.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina1.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\ReporteNomina1\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\ReporteNomina1\ReporteNomina1\bin\Debug\office.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\ReporteNomina1\ReporteNomina1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\ReporteNomina1\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\ReporteNomina1\ReporteNomina1\bin\Debug\office.xml
+C:\Users\Soporte\Desktop\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe
+C:\Users\Soporte\Desktop\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina1.xml
+C:\Users\Soporte\Desktop\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina1.pdb
+C:\Users\Soporte\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\ReporteNomina1.exe.manifest
+C:\Users\Soporte\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\ReporteNomina1.application
+C:\Users\Soporte\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\ReporteNomina1.exe
+C:\Users\Soporte\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\ReporteNomina1.pdb
+C:\Users\Soporte\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\ReporteNomina1.xml
+C:\Users\Soporte\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Soporte\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\System.Data.dll
+C:\Users\Soporte\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\System.dll
+C:\Users\Soporte\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\System.Drawing.dll
+C:\Users\Soporte\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\System.Windows.Forms.dll
+C:\Users\Soporte\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\office.dll
+C:\Users\Soporte\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Soporte\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Soporte\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\office.xml
+C:\Users\Soporte\Desktop\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbprojResolveAssemblyReference.cache
+C:\Users\Soporte\Desktop\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina.Form1.resources
+C:\Users\Soporte\Desktop\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina.Resources.resources
+C:\Users\Soporte\Desktop\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Desktop\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina1.TrustInfo.xml
+C:\Users\Soporte\Desktop\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe.manifest
+C:\Users\Soporte\Desktop\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina1.application
+C:\Users\Usuario\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\ReporteNomina1.exe.manifest
+C:\Users\Usuario\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\ReporteNomina1.application
+C:\Users\Usuario\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\ReporteNomina1.exe
+C:\Users\Usuario\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\ReporteNomina1.pdb
+C:\Users\Usuario\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\ReporteNomina1.xml
+C:\Users\Usuario\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Usuario\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\System.Data.dll
+C:\Users\Usuario\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\System.dll
+C:\Users\Usuario\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\System.Drawing.dll
+C:\Users\Usuario\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\System.Windows.Forms.dll
+C:\Users\Usuario\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\office.dll
+C:\Users\Usuario\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Usuario\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Usuario\Desktop\ReporteNomina1\ReporteNomina1\bin\Debug\office.xml
+C:\Users\Usuario\Desktop\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina.Form1.resources
+C:\Users\Usuario\Desktop\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina.Resources.resources
+C:\Users\Usuario\Desktop\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina1.TrustInfo.xml
+C:\Users\Usuario\Desktop\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe.manifest
+C:\Users\Usuario\Desktop\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina1.application
+C:\Users\Usuario\Desktop\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe
+C:\Users\Usuario\Desktop\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina1.xml
+C:\Users\Usuario\Desktop\ReporteNomina1\ReporteNomina1\obj\x86\Debug\ReporteNomina1.pdb
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas\ReporteNomina1\obj\x86\Debug\ReporteNomina1.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas\ReporteNomina1\obj\x86\Debug\ReporteNomina1.pdb
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas\ReporteNomina1\bin\Debug\ReporteNomina1.exe.manifest
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas\ReporteNomina1\bin\Debug\ReporteNomina1.application
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas\ReporteNomina1\bin\Debug\ReporteNomina1.exe
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas\ReporteNomina1\bin\Debug\ReporteNomina1.pdb
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas\ReporteNomina1\bin\Debug\ReporteNomina1.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas\ReporteNomina1\bin\Debug\System.Data.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas\ReporteNomina1\bin\Debug\System.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas\ReporteNomina1\bin\Debug\System.Drawing.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas\ReporteNomina1\bin\Debug\System.Windows.Forms.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas\ReporteNomina1\bin\Debug\office.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas\ReporteNomina1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas\ReporteNomina1\bin\Debug\office.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas\ReporteNomina1\obj\x86\Debug\ReporteNomina.Form1.resources
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas\ReporteNomina1\obj\x86\Debug\ReporteNomina.Resources.resources
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas\ReporteNomina1\obj\x86\Debug\ReporteNomina1.TrustInfo.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe.manifest
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas\ReporteNomina1\obj\x86\Debug\ReporteNomina1.application
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina1.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina1.pdb
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas - copia\ReporteNomina1\bin\Debug\ReporteNomina1.exe.manifest
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas - copia\ReporteNomina1\bin\Debug\ReporteNomina1.application
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas - copia\ReporteNomina1\bin\Debug\ReporteNomina1.exe
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas - copia\ReporteNomina1\bin\Debug\ReporteNomina1.pdb
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas - copia\ReporteNomina1\bin\Debug\ReporteNomina1.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas - copia\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas - copia\ReporteNomina1\bin\Debug\System.Data.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas - copia\ReporteNomina1\bin\Debug\System.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas - copia\ReporteNomina1\bin\Debug\System.Drawing.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas - copia\ReporteNomina1\bin\Debug\System.Windows.Forms.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas - copia\ReporteNomina1\bin\Debug\office.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas - copia\ReporteNomina1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas - copia\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas - copia\ReporteNomina1\bin\Debug\office.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina.Form1.resources
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina.Resources.resources
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina1.TrustInfo.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe.manifest
+C:\Users\Usuario\Desktop\ReporteNomina1 - pruebas - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina1.application
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017\ReporteNomina1\obj\x86\Debug\ReporteNomina1.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017\ReporteNomina1\obj\x86\Debug\ReporteNomina1.pdb
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017\ReporteNomina1\bin\Debug\ReporteNomina1.exe.manifest
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017\ReporteNomina1\bin\Debug\ReporteNomina1.application
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017\ReporteNomina1\bin\Debug\ReporteNomina1.exe
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017\ReporteNomina1\bin\Debug\ReporteNomina1.pdb
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017\ReporteNomina1\bin\Debug\ReporteNomina1.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017\ReporteNomina1\bin\Debug\System.Data.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017\ReporteNomina1\bin\Debug\System.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017\ReporteNomina1\bin\Debug\System.Drawing.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017\ReporteNomina1\bin\Debug\System.Windows.Forms.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017\ReporteNomina1\bin\Debug\office.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017\ReporteNomina1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017\ReporteNomina1\bin\Debug\office.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017\ReporteNomina1\obj\x86\Debug\ReporteNomina.Form1.resources
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017\ReporteNomina1\obj\x86\Debug\ReporteNomina.Resources.resources
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017\ReporteNomina1\obj\x86\Debug\ReporteNomina1.TrustInfo.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe.manifest
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017\ReporteNomina1\obj\x86\Debug\ReporteNomina1.application
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017 - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017 - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina1.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017 - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina1.pdb
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017 - copia\ReporteNomina1\bin\Debug\ReporteNomina1.exe.manifest
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017 - copia\ReporteNomina1\bin\Debug\ReporteNomina1.application
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017 - copia\ReporteNomina1\bin\Debug\ReporteNomina1.exe
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017 - copia\ReporteNomina1\bin\Debug\ReporteNomina1.pdb
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017 - copia\ReporteNomina1\bin\Debug\ReporteNomina1.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017 - copia\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017 - copia\ReporteNomina1\bin\Debug\System.Data.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017 - copia\ReporteNomina1\bin\Debug\System.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017 - copia\ReporteNomina1\bin\Debug\System.Drawing.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017 - copia\ReporteNomina1\bin\Debug\System.Windows.Forms.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017 - copia\ReporteNomina1\bin\Debug\office.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017 - copia\ReporteNomina1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017 - copia\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017 - copia\ReporteNomina1\bin\Debug\office.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017 - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017 - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina.Form1.resources
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017 - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina.Resources.resources
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017 - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017 - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina1.TrustInfo.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017 - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe.manifest
+C:\Users\Usuario\Desktop\ReporteNomina1 - 2017 - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina1.application
+C:\Users\Usuario\Desktop\ReporteNomina1 abril  2017\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe
+C:\Users\Usuario\Desktop\ReporteNomina1 abril  2017\ReporteNomina1\obj\x86\Debug\ReporteNomina1.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 abril  2017\ReporteNomina1\obj\x86\Debug\ReporteNomina1.pdb
+C:\Users\Usuario\Desktop\ReporteNomina1 abril  2017\ReporteNomina1\bin\Debug\ReporteNomina1.exe.manifest
+C:\Users\Usuario\Desktop\ReporteNomina1 abril  2017\ReporteNomina1\bin\Debug\ReporteNomina1.application
+C:\Users\Usuario\Desktop\ReporteNomina1 abril  2017\ReporteNomina1\bin\Debug\ReporteNomina1.exe
+C:\Users\Usuario\Desktop\ReporteNomina1 abril  2017\ReporteNomina1\bin\Debug\ReporteNomina1.pdb
+C:\Users\Usuario\Desktop\ReporteNomina1 abril  2017\ReporteNomina1\bin\Debug\ReporteNomina1.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 abril  2017\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 abril  2017\ReporteNomina1\bin\Debug\System.Data.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 abril  2017\ReporteNomina1\bin\Debug\System.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 abril  2017\ReporteNomina1\bin\Debug\System.Drawing.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 abril  2017\ReporteNomina1\bin\Debug\System.Windows.Forms.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 abril  2017\ReporteNomina1\bin\Debug\office.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 abril  2017\ReporteNomina1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 abril  2017\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 abril  2017\ReporteNomina1\bin\Debug\office.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 abril  2017\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\ReporteNomina1 abril  2017\ReporteNomina1\obj\x86\Debug\ReporteNomina.Form1.resources
+C:\Users\Usuario\Desktop\ReporteNomina1 abril  2017\ReporteNomina1\obj\x86\Debug\ReporteNomina.Resources.resources
+C:\Users\Usuario\Desktop\ReporteNomina1 abril  2017\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\ReporteNomina1 abril  2017\ReporteNomina1\obj\x86\Debug\ReporteNomina1.TrustInfo.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 abril  2017\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe.manifest
+C:\Users\Usuario\Desktop\ReporteNomina1 abril  2017\ReporteNomina1\obj\x86\Debug\ReporteNomina1.application
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017\ReporteNomina1\obj\x86\Debug\ReporteNomina1.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017\ReporteNomina1\obj\x86\Debug\ReporteNomina1.pdb
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017\ReporteNomina1\bin\Debug\ReporteNomina1.exe.manifest
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017\ReporteNomina1\bin\Debug\ReporteNomina1.application
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017\ReporteNomina1\bin\Debug\ReporteNomina1.exe
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017\ReporteNomina1\bin\Debug\ReporteNomina1.pdb
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017\ReporteNomina1\bin\Debug\ReporteNomina1.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017\ReporteNomina1\bin\Debug\System.Data.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017\ReporteNomina1\bin\Debug\System.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017\ReporteNomina1\bin\Debug\System.Drawing.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017\ReporteNomina1\bin\Debug\System.Windows.Forms.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017\ReporteNomina1\bin\Debug\office.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017\ReporteNomina1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017\ReporteNomina1\bin\Debug\office.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017\ReporteNomina1\obj\x86\Debug\ReporteNomina.Form1.resources
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017\ReporteNomina1\obj\x86\Debug\ReporteNomina.Resources.resources
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017\ReporteNomina1\obj\x86\Debug\ReporteNomina1.TrustInfo.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe.manifest
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017\ReporteNomina1\obj\x86\Debug\ReporteNomina1.application
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua\ReporteNomina1\obj\x86\Debug\ReporteNomina1.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua\ReporteNomina1\obj\x86\Debug\ReporteNomina1.pdb
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua\ReporteNomina1\bin\Debug\ReporteNomina1.exe.manifest
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua\ReporteNomina1\bin\Debug\ReporteNomina1.application
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua\ReporteNomina1\bin\Debug\ReporteNomina1.exe
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua\ReporteNomina1\bin\Debug\ReporteNomina1.pdb
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua\ReporteNomina1\bin\Debug\ReporteNomina1.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua\ReporteNomina1\bin\Debug\System.Data.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua\ReporteNomina1\bin\Debug\System.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua\ReporteNomina1\bin\Debug\System.Drawing.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua\ReporteNomina1\bin\Debug\System.Windows.Forms.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua\ReporteNomina1\bin\Debug\office.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua\ReporteNomina1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua\ReporteNomina1\bin\Debug\office.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua\ReporteNomina1\obj\x86\Debug\ReporteNomina.Form1.resources
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua\ReporteNomina1\obj\x86\Debug\ReporteNomina.Resources.resources
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua\ReporteNomina1\obj\x86\Debug\ReporteNomina1.TrustInfo.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe.manifest
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua\ReporteNomina1\obj\x86\Debug\ReporteNomina1.application
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua - 2\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua - 2\ReporteNomina1\obj\x86\Debug\ReporteNomina1.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua - 2\ReporteNomina1\obj\x86\Debug\ReporteNomina1.pdb
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua - 2\ReporteNomina1\bin\Debug\ReporteNomina1.exe.manifest
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua - 2\ReporteNomina1\bin\Debug\ReporteNomina1.application
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua - 2\ReporteNomina1\bin\Debug\ReporteNomina1.exe
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua - 2\ReporteNomina1\bin\Debug\ReporteNomina1.pdb
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua - 2\ReporteNomina1\bin\Debug\ReporteNomina1.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua - 2\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua - 2\ReporteNomina1\bin\Debug\System.Data.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua - 2\ReporteNomina1\bin\Debug\System.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua - 2\ReporteNomina1\bin\Debug\System.Drawing.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua - 2\ReporteNomina1\bin\Debug\System.Windows.Forms.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua - 2\ReporteNomina1\bin\Debug\office.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua - 2\ReporteNomina1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua - 2\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua - 2\ReporteNomina1\bin\Debug\office.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua - 2\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua - 2\ReporteNomina1\obj\x86\Debug\ReporteNomina.Form1.resources
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua - 2\ReporteNomina1\obj\x86\Debug\ReporteNomina.Resources.resources
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua - 2\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua - 2\ReporteNomina1\obj\x86\Debug\ReporteNomina1.TrustInfo.xml
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua - 2\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe.manifest
+C:\Users\Usuario\Desktop\ReporteNomina1 julio 2017 - Sua - 2\ReporteNomina1\obj\x86\Debug\ReporteNomina1.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Listado de nominas con Sua\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Listado de nominas con Sua\ReporteNomina1\obj\x86\Debug\ReporteNomina1.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Listado de nominas con Sua\ReporteNomina1\obj\x86\Debug\ReporteNomina1.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Listado de nominas con Sua\ReporteNomina1\bin\Debug\ReporteNomina1.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Listado de nominas con Sua\ReporteNomina1\bin\Debug\ReporteNomina1.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Listado de nominas con Sua\ReporteNomina1\bin\Debug\ReporteNomina1.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Listado de nominas con Sua\ReporteNomina1\bin\Debug\ReporteNomina1.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Listado de nominas con Sua\ReporteNomina1\bin\Debug\ReporteNomina1.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Listado de nominas con Sua\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Listado de nominas con Sua\ReporteNomina1\bin\Debug\System.Data.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Listado de nominas con Sua\ReporteNomina1\bin\Debug\System.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Listado de nominas con Sua\ReporteNomina1\bin\Debug\System.Drawing.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Listado de nominas con Sua\ReporteNomina1\bin\Debug\System.Windows.Forms.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Listado de nominas con Sua\ReporteNomina1\bin\Debug\office.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Listado de nominas con Sua\ReporteNomina1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Listado de nominas con Sua\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Listado de nominas con Sua\ReporteNomina1\bin\Debug\office.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Listado de nominas con Sua\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Listado de nominas con Sua\ReporteNomina1\obj\x86\Debug\ReporteNomina.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Listado de nominas con Sua\ReporteNomina1\obj\x86\Debug\ReporteNomina.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Listado de nominas con Sua\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Listado de nominas con Sua\ReporteNomina1\obj\x86\Debug\ReporteNomina1.TrustInfo.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Listado de nominas con Sua\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Listado de nominas con Sua\ReporteNomina1\obj\x86\Debug\ReporteNomina1.application
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas con Sua\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas con Sua\ReporteNomina1\obj\x86\Debug\ReporteNomina1.xml
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas con Sua\ReporteNomina1\obj\x86\Debug\ReporteNomina1.pdb
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT\ReporteNomina1\obj\x86\Debug\ReporteNomina1.xml
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT\ReporteNomina1\obj\x86\Debug\ReporteNomina1.pdb
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbprojResolveAssemblyReference.cache
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT\ReporteNomina1\obj\x86\Debug\ReporteNomina.Form1.resources
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT\ReporteNomina1\obj\x86\Debug\ReporteNomina.Resources.resources
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbproj.GenerateResource.Cache
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT\ReporteNomina1\bin\Debug\ReporteNomina1.exe.manifest
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT\ReporteNomina1\bin\Debug\ReporteNomina1.application
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT\ReporteNomina1\bin\Debug\ReporteNomina1.exe
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT\ReporteNomina1\bin\Debug\ReporteNomina1.pdb
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT\ReporteNomina1\bin\Debug\ReporteNomina1.xml
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT\ReporteNomina1\bin\Debug\System.Data.dll
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT\ReporteNomina1\bin\Debug\System.dll
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT\ReporteNomina1\bin\Debug\System.Drawing.dll
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT\ReporteNomina1\bin\Debug\System.Windows.Forms.dll
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT\ReporteNomina1\bin\Debug\office.dll
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT\ReporteNomina1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT\ReporteNomina1\bin\Debug\stdole.dll
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT\ReporteNomina1\bin\Debug\office.xml
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT\ReporteNomina1\obj\x86\Debug\ReporteNomina1.TrustInfo.xml
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe.manifest
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT\ReporteNomina1\obj\x86\Debug\ReporteNomina1.application
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2\ReporteNomina1\obj\x86\Debug\ReporteNomina1.xml
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2\ReporteNomina1\obj\x86\Debug\ReporteNomina1.pdb
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbprojResolveAssemblyReference.cache
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2\ReporteNomina1\obj\x86\Debug\ReporteNomina.Form1.resources
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2\ReporteNomina1\obj\x86\Debug\ReporteNomina.Resources.resources
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbproj.GenerateResource.Cache
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2 - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2 - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina1.xml
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2 - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina1.pdb
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2 - copia\ReporteNomina1\bin\Debug\ReporteNomina1.exe.manifest
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2 - copia\ReporteNomina1\bin\Debug\ReporteNomina1.application
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2 - copia\ReporteNomina1\bin\Debug\ReporteNomina1.exe
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2 - copia\ReporteNomina1\bin\Debug\ReporteNomina1.pdb
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2 - copia\ReporteNomina1\bin\Debug\ReporteNomina1.xml
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2 - copia\ReporteNomina1\bin\Debug\System.Data.dll
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2 - copia\ReporteNomina1\bin\Debug\System.dll
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2 - copia\ReporteNomina1\bin\Debug\System.Drawing.dll
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2 - copia\ReporteNomina1\bin\Debug\System.Windows.Forms.dll
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2 - copia\ReporteNomina1\bin\Debug\office.dll
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2 - copia\ReporteNomina1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2 - copia\ReporteNomina1\bin\Debug\stdole.dll
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2 - copia\ReporteNomina1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2 - copia\ReporteNomina1\bin\Debug\office.xml
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2 - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbprojResolveAssemblyReference.cache
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2 - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina.Form1.resources
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2 - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina.Resources.resources
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2 - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina1.vbproj.GenerateResource.Cache
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2 - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina1.TrustInfo.xml
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2 - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina1.exe.manifest
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Listado de nominas PEUGEOT - 2 - copia\ReporteNomina1\obj\x86\Debug\ReporteNomina1.application
