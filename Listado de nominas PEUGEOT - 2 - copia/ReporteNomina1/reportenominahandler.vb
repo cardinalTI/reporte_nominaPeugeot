@@ -482,6 +482,42 @@ Public Class reportenominahandler
                 c.sua = 0
                 c.cargasocial = c.isn + c.sua
                 c.sueldomensual = c.sueldodiario * 30.42
+                ''calculo de vacaciones
+                Dim fecha_1 As Date
+                fecha_1 = c.fecha_alta
+
+                Dim fecha_2 As Date = Date.Now
+
+                Dim fecha_3 As Long = DateDiff(DateInterval.Day, fecha_1, fecha_2)
+
+                ''cero años
+
+                If fecha_3 < 365 Then
+                    c.vacaciones = (c.sueldomensual / 30.4 * 6) / 12 / (30.4) * (c.dias_laboradosreales + c.dias_faltas + +c.diasIncEnfGral + c.diasIncTrayecto + c.diasmaternidad)
+                End If
+
+                ''un año
+                If fecha_3 > 365 And fecha_3 <= 730 Then
+                    c.vacaciones = (c.sueldomensual / 30.4 * 6) / 12 / (30.4) * (c.dias_laboradosreales + c.dias_faltas + +c.diasIncEnfGral + c.diasIncTrayecto + c.diasmaternidad)
+                End If
+
+                ''dos años
+                If fecha_3 > 731 And fecha_3 <= 1095 Then
+                    c.vacaciones = (c.sueldomensual / 30.4 * 8) / 12 / (30.4) * (c.dias_laboradosreales + c.dias_faltas + +c.diasIncEnfGral + c.diasIncTrayecto + c.diasmaternidad)
+                End If
+
+                ''tres años
+
+                If fecha_3 > 1096 And fecha_3 < 1460 Then
+                    c.vacaciones = (c.sueldomensual / 30.4 * 10) / 12 / (30.4) * (c.dias_laboradosreales + c.dias_faltas + +c.diasIncEnfGral + c.diasIncTrayecto + c.diasmaternidad)
+                End If
+
+                ''cuatro años
+                If fecha_3 > 1461 And fecha_3 < 1825 Then
+                    c.vacaciones = (c.sueldomensual / 30.4 * 12) / 12 / (30.4) * (c.dias_laboradosreales + c.dias_faltas + +c.diasIncEnfGral + c.diasIncTrayecto + c.diasmaternidad)
+                End If
+
+
                 c.vacaciones = (c.sueldomensual / 30.4 * 8) / 12 / (30.4) * (c.dias_laboradosreales + c.dias_faltas + +c.diasIncEnfGral + c.diasIncTrayecto + c.diasmaternidad)
                 c.primavacacional2 = (c.sueldomensual / 30.4 * 8) / 12 * (0.25) / (30.4) * (c.dias_laboradosreales + c.dias_faltas + c.diasIncEnfGral + c.diasmaternidad + c.diasIncTrayecto)
                 c.aguinaldo = (c.sueldomensual / 30.4 * 15) / 12 / (30.4) * (c.dias_laboradosreales + c.dias_faltas + c.diasIncEnfGral + c.diasmaternidad + c.diasIncTrayecto)
