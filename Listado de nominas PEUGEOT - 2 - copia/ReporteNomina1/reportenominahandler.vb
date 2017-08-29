@@ -493,7 +493,7 @@ Public Class reportenominahandler
                 ''cero años
 
                 If fecha_3 < 365 Then
-                    c.vacaciones = (c.sueldomensual / 30.4 * 6) / 12 / (30.4) * (c.dias_laboradosreales + c.dias_faltas + +c.diasIncEnfGral + c.diasIncTrayecto + c.diasmaternidad)
+                    c.vacaciones = (c.sueldomensual / 30.4 * 0) / 12 / (30.4) * (c.dias_laboradosreales + c.dias_faltas + +c.diasIncEnfGral + c.diasIncTrayecto + c.diasmaternidad)
                 End If
 
                 ''un año
